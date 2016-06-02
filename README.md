@@ -10,7 +10,7 @@ This is a personal repository of [Katsutoshi Seki](http://www2.toyo.ac.jp/~seki_
 
 | Directory | Journal | Japanese name |
 |:--|:--|:--|
-| AM | Annals of Microbiology | |
+| [AM](AM/) | Annals of Microbiology | |
 | EJSS | European Journal of Soil Science | |
 | G | Geoderma | |
 | GRL | Geophysical Research Letters | |
@@ -27,7 +27,7 @@ This is a personal repository of [Katsutoshi Seki](http://www2.toyo.ac.jp/~seki_
 | OJSS | Open Journal of Soil Science | |
 | PWE | Paddy and Water Environment | |
 | STE | Science of The Total Environment | |
-| UT | University of Tokyo | 東京大学博士論文 |
+| UT | University of Tokyo (Ph.D. Thesis) | 東京大学博士論文 |
 | WCSS | Transactions of World Congress of Soil Science | |
 | WRR | Water Resources Research | |
 
