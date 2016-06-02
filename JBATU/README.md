@@ -1,1 +1,1 @@
-K. Seki, 2011. Remediation of soil contaminated with radionuclides derived from the Fukushima Nuclear Plant accident. Journal of Business Administraion, Toyo University 78 13-26.
+- K. Seki, 2011. Remediation of soil contaminated with radionuclides derived from the Fukushima Nuclear Plant accident. Journal of Business Administraion, Toyo University 78 13-26. http://id.nii.ac.jp/1060/00004443/
