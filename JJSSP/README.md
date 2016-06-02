@@ -1,4 +1,4 @@
-Journal of Japanese Society of Soil Physics 土壌の物理性 https://js-soilphysics.com/editions
+[Journal of Japanese Society of Soil Physics](https://js-soilphysics.com/editions) (土壌の物理性)
 
 - Seki, K., Miyazaki, T., Mizoguchi, M., Imoto, H., Nakaya, K., Miyazawa, H., 2004. A simple estimation of excess rainwater percolation from a buried container into a vadose zone. Journal of Japanese Society of Soil Physics 97, 25–30. URL https://js-soilphysics.com/downloads/pdf/097025.pdf
 - Seki, K., Mar. 2007. A program for nonlinear fitting of soil water retention curve written in numerical calculation language GNU octave. Journal of Japanese Society of Soil Physics 105, 67–78. URL https://js-soilphysics.com/downloads/pdf/105067.pdf
