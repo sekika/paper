@@ -1,4 +1,4 @@
-[The Japanese Society of Irrigation, Drainage and Rural Engineering](https://www.jstage.jst.go.jp/browse/jsidre) (農業農村工学会論文集)
+[Transactions of the Japanese Society of Irrigation, Drainage and Rural Engineering](https://www.jstage.jst.go.jp/browse/jsidre) (農業農村工学会論文集)
 
 - Deb, S. K., Miyazaki, T., Mizoguchi, M., Seki, K., 2006. Return flow generating point on a hillslope layered with traffic pan. Transactions of Japanese Society of Irrigation, Drainage and Reclamation Engineering 241, 1–11. URL http://dx.doi.org/10.11408/jsidre1965.2006.1
 - Fujikawa, T., Miyazaki, T., Seki, K., Imoto, H., 2000. Correlation between the distribution of microorganisms and CO2 and o2 gas concentrations in a field under rotating use. Transactions of Japanese Society of Irrigation, Drainage and Reclamation Engineering 208, 443–452. URL http://dx.doi.org/10.11408/jsidre1965.2000.443
