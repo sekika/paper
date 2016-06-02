@@ -8,7 +8,6 @@ This is a personal repository of [Katsutoshi Seki](http://www2.toyo.ac.jp/~seki_
 
 ## Directory of this repository
 
-|---
 | Directory | Journal | Japanese name |
 |:--|:--|:--|
 | AM | Annals of Microbiology | |
