@@ -3,7 +3,7 @@ This is a personal repository of [Katsutoshi Seki](http://www2.toyo.ac.jp/~seki_
 ## Pulibcation list
 - [Researchmap](http://researchmap.jp/sekik/)
 - [Google Scholar Citation](http://scholar.google.com/citations?user=Gs_ABawAAAAJ)
-- [CiteULike](http://scholar.google.com/citations?user=Gs_ABawAAAAJ)
+- [CiteULike](http://www.citeulike.org/user/seki/tag/myself/order/year,desc,)
 - [ResearchGate](http://www.researchgate.net/profile/Katsutoshi_Seki/)
 
 ## Directory of this repository
