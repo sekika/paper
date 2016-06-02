@@ -1,1 +1,1 @@
-- Seki, K., Thullner, M., Baveye, P., 2004. Nutrient uptake kinetics of filamentous microorganisms: Comparison of cubic, exponential, and monod models. Annals of Microbiology 54 (2), 181–188. URL http://www.annmicro.unimi.it/contents/contents54-2-abst.htm
+- Seki, K., Thullner, M., Baveye, P., 2004. Nutrient uptake kinetics of filamentous microorganisms: Comparison of cubic, exponential, and monod models. Annals of Microbiology 54 (2), 181–188.
