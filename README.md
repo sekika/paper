@@ -26,7 +26,7 @@ This is a personal repository of [Katsutoshi Seki](http://www2.toyo.ac.jp/~seki_
 | [NVSURJ](NVSURJ/) | NVSU Research Journal | |
 | [OJSS](OJSS/) | Open Journal of Soil Science | |
 | [PWE](PWE/) | Paddy and Water Environment | |
-| [STE](STE/) | Science of The Total Environment | |
+| [STE](STE/) | Science of the Total Environment | |
 | [UT](UT/) | University of Tokyo (Ph.D. Thesis) | 東京大学博士論文 |
 | [WCSS](WCSS/) | Transactions of World Congress of Soil Science | |
 | [WRR](WRR/) | Water Resources Research | |
