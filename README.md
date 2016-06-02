@@ -20,7 +20,7 @@ This is a personal repository of [Katsutoshi Seki](http://www2.toyo.ac.jp/~seki_
 | [JBATU](JBATU/) | Journal of Business Administraion, Toyo University | 経営論集 |
 | [JHM](JHM/) | Journal of Hazardous Materials | |
 | [JJSSP](JJSSP/) | Journal of Japanese Society of Soil Physics | 土壌の物理性 |
-| [JSIDRE](JSIDRE/) | Transactions of Japanese Society of Irrigation, Drainage and Reclamation Engineering | 農業農村工学会論文集 |
+| [JSIDRE](JSIDRE/) | Transactions of Japanese Society of Irrigation, Drainage and Rural Engineering | 農業農村工学会論文集 |
 | [JTFS](JTFS/) | Journal of Tropical Forest Science | |
 | [JTUNS](JTUNS/) | Journal of the Toyo University Natural science | 東洋大学紀要自然科学篇 |
 | [NVSURJ](NVSURJ/) | NVSU Research Journal | |
