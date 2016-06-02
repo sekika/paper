@@ -22,7 +22,7 @@ This is a personal repository of [Katsutoshi Seki](http://www2.toyo.ac.jp/~seki_
 | [JJSSP](JJSSP/) | Journal of Japanese Society of Soil Physics | 土壌の物理性 |
 | [JSIDRE](JSIDRE/) | Transactions of Japanese Society of Irrigation, Drainage and Rural Engineering | 農業農村工学会論文集 |
 | [JTFS](JTFS/) | Journal of Tropical Forest Science | |
-| [JTUNS](JTUNS/) | Journal of the Toyo University Natural science | 東洋大学紀要自然科学篇 |
+| [JTUNS](JTUNS/) | Journal of the Toyo University Natural Science | 東洋大学紀要自然科学篇 |
 | [NVSURJ](NVSURJ/) | NVSU Research Journal | |
 | [OJSS](OJSS/) | Open Journal of Soil Science | |
 | [PWE](PWE/) | Paddy and Water Environment | |
