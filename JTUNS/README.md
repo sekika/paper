@@ -1,7 +1,9 @@
+[Journal of the Toyo University Natural science](https://toyo.repo.nii.ac.jp/index.php?action=pages_view_main&active_action=repository_view_main_item_snippet&index_id=42&pn=1&count=20&order=17&lang=english&page_id=15&block_id=18) (東洋大学紀要自然科学篇)
+
 English papers
 
-- Seki, K., 2010. Change in hydrological properties of volcanic ash soil in response to electrolyte concentration. Journal of the Toyo University Natural science 54, 1–14. URL http://id.nii.ac.jp/1060/00004070/
-- Seki, K., 2011. Analysis of soil salinization and alkalinization in the Songnen Plain of Northeast China. Journal of the Toyo University Natural science 55, 17-28.
+- Seki, K., 2010. Change in hydrological properties of volcanic ash soil in response to electrolyte concentration. Journal of the Toyo University Natural Science 54, 1–14. URL http://id.nii.ac.jp/1060/00004070/
+- Seki, K., 2011. Analysis of soil salinization and alkalinization in the Songnen Plain of Northeast China. Journal of the Toyo University Natural Science 55, 17-28.
 
 Japanese papers
 
