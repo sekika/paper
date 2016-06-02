@@ -27,6 +27,7 @@ This is a personal repository of [Katsutoshi Seki](http://www2.toyo.ac.jp/~seki_
 | OJSS | Open Journal of Soil Science | |
 | PWE | Paddy and Water Environment | |
 | STE | Science of The Total Environment | |
+| UT | University of Tokyo | 東京大学博士論文 |
 | WCSS | Transactions of World Congress of Soil Science | |
 | WRR | Water Resources Research | |
 
