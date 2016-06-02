@@ -11,13 +11,13 @@ This is a personal repository of [Katsutoshi Seki](http://www2.toyo.ac.jp/~seki_
 | Directory | Journal | Japanese name |
 |:--|:--|:--|
 | [AM](AM/) | Annals of Microbiology | |
-| EJSS | European Journal of Soil Science | |
-| G | Geoderma | |
-| GRL | Geophysical Research Letters | |
-| GWMR | Ground Water Monitoring and Remediation | |
-| HESS | Hydrology and Earth System Sciences | |
-| ISRJ | International Scientific Research Journal | |
-| JBATU | Journal of Business Administraion, Toyo University | 経営論集 |
+| [EJSS](EJSS/) | European Journal of Soil Science | |
+| [G](G/) | Geoderma | |
+| [GRL](GRL/) | Geophysical Research Letters | |
+| [GWMR](GWMR/) | Ground Water Monitoring and Remediation | |
+| [HESS](HESS/] | Hydrology and Earth System Sciences | |
+| [ISRJ](ISRJ/) | International Scientific Research Journal | |
+| [JBATU](JBATU/) | Journal of Business Administraion, Toyo University | 経営論集 |
 | JHM | Journal of Hazardous Materials | |
 | JJSSP | Journal of Japanese Society of Soil Physics | 土壌の物理性 |
 | JSIDRE | Transactions of Japanese Society of Irrigation, Drainage and Reclamation Engineering | 農業農村工学会論文集 |
