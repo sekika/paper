@@ -1,0 +1,2 @@
+Saito, H., Seki, K., Šimůnek, J., 2009. An alternative deterministic method for the spatial interpolation of water retention parameters. Hydrology and Earth System Sciences 13 (4), 453–465. URL http://dx.doi.org/10.5194/hess-13-453-2009
+Seki, K., 2007. SWRC fit - a nonlinear fitting program with a water retention curve for soils having unimodal and bimodal pore structure. Hydrology and Earth System Sciences Discussions 4 (1), 407–437.

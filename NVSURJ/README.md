@@ -1,0 +1,1 @@
+W.A. Dumale, Jr., T. Miyazaki, T. Nishimura, and K. Seki, 2008. Kinetics of CO2 evolution, soil microbial biomass carbon, and mineral-associated organic carbon of a tropical soil applied with organic matter. NVSU Research Journal 15, 45-59.

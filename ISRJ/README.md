@@ -1,0 +1,1 @@
+Dumale, W. A., Miyazaki, T., Nishimura, T., Seki, K., 2011. Short-term dynamics of the active and passive soil organic carbon pools in a volcanic soil treated with fresh organic matter. E-International Scientific Research Journal 3 (2), 128-144. URL http://www.eisrjc.com/documents/ShortTermDynamics1325914464.pdf

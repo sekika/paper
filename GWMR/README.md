@@ -1,0 +1,1 @@
+Seki, K., Thullner, M., Hanada, J., Miyazaki, T., 2006. Moderate bioclogging leading to preferential flow paths in biobarriers. Ground Water Monitoring & Remediation 26 (3), 68–76. URL http://dx.doi.org/10.1111/j.1745-6592.2006.00086.x
