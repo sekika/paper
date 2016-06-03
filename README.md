@@ -1,4 +1,4 @@
-This is a personal repository of [Katsutoshi Seki](http://www2.toyo.ac.jp/~seki_k/en/)'s scientific papers.
+This is a personal repository of [Katsutoshi Seki](http://www2.toyo.ac.jp/~seki_k/en/)'s scientific papers. You can download PDF files of my papers from here. Some papers are not available.
 
 ## Pulibcation list
 - [Researchmap](http://researchmap.jp/sekik/)
