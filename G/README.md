@@ -1,4 +1,4 @@
-- Seki, K., Ackerer, P., Lehmann, F., 2015. Sequential estimation of hydraulic parameters in layered soil using limited data. Geoderma 247–248 (0), 117–128. URL http://dx.doi.org/10.1016/j.geoderma.2015.02.013
+- [Seki-2015-G.pdf](Seki-2015-G.pdf): Seki, K., Ackerer, P., Lehmann, F., 2015. Sequential estimation of hydraulic parameters in layered soil using limited data. Geoderma 247–248 (0), 117–128. URL http://dx.doi.org/10.1016/j.geoderma.2015.02.013
 
 Not archived
 
