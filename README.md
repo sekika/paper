@@ -10,7 +10,7 @@ This is a personal repository of [Katsutoshi Seki](http://www2.toyo.ac.jp/~seki_
 
 | Directory | Journal | Japanese name |
 |:--|:--|:--|
-| [AM](AM/) | Annals of Microbiology | |
+| [AM](AM/README.md) | Annals of Microbiology | |
 | [EJSS](EJSS/) | European Journal of Soil Science | |
 | [G](G/) | Geoderma | |
 | [GRL](GRL/) | Geophysical Research Letters | |
