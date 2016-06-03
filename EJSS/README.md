@@ -1,4 +1,4 @@
-- Seki, K., Miyazaki, T., Nakano, M., 1998. Effects of microorganisms on hydraulic conductivity decrease in infiltration. European Journal of Soil Science 49 (2), 231–236. URL http://dx.doi.org/10.1046/j.1365-2389.1998.00152.x
+- [Seki-1998-EJSS.pdf](Seki-1998-EJSS.pdf): Seki, K., Miyazaki, T., Nakano, M., 1998. Effects of microorganisms on hydraulic conductivity decrease in infiltration. European Journal of Soil Science 49 (2), 231–236. URL http://dx.doi.org/10.1046/j.1365-2389.1998.00152.x
 
 Not archived
 
