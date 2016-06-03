@@ -9,7 +9,7 @@ English papers
 
 Japanese papers with English excerpt 
 
-- Seki-2005-JSIDRE.pdf](Seki-2005-JSIDRE.pdf) ([English excerpt](https://github.com/sekika/paper/blob/master/JSIDRE/Seki-2005-JSIDRE-excerpt.pdf)): 
+- [Seki-2005-JSIDRE.pdf](Seki-2005-JSIDRE.pdf) ([English excerpt](https://github.com/sekika/paper/blob/master/JSIDRE/Seki-2005-JSIDRE-excerpt.pdf)): 
 Seki, K., Kamiya, J., Miyazaki, T., 2005. Temperature dependence of hydraulic conductivity decrease due to biological clogging under ponded infiltration. Transactions of Japanese Society of Irrigation, Drainage and Reclamation Engineering 237, 13–19. URL http://dx.doi.org/10.11408/jsidre1965.2005.213
 
 Japanese papers
