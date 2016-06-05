@@ -1,5 +1,5 @@
 [Transactions of the Japanese Society of Irrigation, Drainage and Rural Engineering](https://www.jstage.jst.go.jp/browse/jsidre) (農業農村工学会論文集)
-- Old name: Transactions of Japanese Society of Irrigation, Drainage and Reclamation Engineering
+- Old name: Transactions of Japanese Society of Irrigation, Drainage and Reclamation Engineering (農業土木学会論文集)
 
 English papers
 
