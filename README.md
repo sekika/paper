@@ -10,7 +10,7 @@ This is a personal repository of [Katsutoshi Seki](http://www2.toyo.ac.jp/~seki_
 
 - Select a journal and click the link of the corresponding directory
 - Select a link to PDF file to preview the paper
-- To download the PDF file, click "Raw" bottun at the top-right corner of the preview
+- To download the PDF file, click "Download" button at the top-right corner of the preview
 
 | Directory | Journal | Japanese name |
 |:--|:--|:--|
