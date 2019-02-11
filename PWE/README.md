@@ -1,1 +1,1 @@
-- [Wang-2009-PWE.pdf](Wang-2009-PWE.pdf): Wang, L., Seki, K., Miyazaki, T., Ishihama, Y., Sep. 2009. The causes of soil alkalinization in the songnen plain of northeast china. Paddy and Water Environment 7 (3), 259–270. URL http://dx.doi.org/10.1007/s10333-009-0166-x
+- [Wang-2009-PWE.pdf](Wang-2009-PWE.pdf): Wang, L., Seki, K., Miyazaki, T., Ishihama, Y., Sep. 2009. The causes of soil alkalinization in the songnen plain of northeast china. Paddy and Water Environment 7 (3), 259–270. URL https://doi.org/10.1007/s10333-009-0166-x

@@ -1,1 +1,1 @@
-- [Seki-2013-OJSS.pdf](Seki-2013-OJSS.pdf): Seki, K., 2013. Biological clogging of sand columns. Open Journal of Soil Science 3 (3), 148–152. URL http://dx.doi.org/10.4236/ojss.2013.33017
+- [Seki-2013-OJSS.pdf](Seki-2013-OJSS.pdf): Seki, K., 2013. Biological clogging of sand columns. Open Journal of Soil Science 3 (3), 148–152. URL https://doi.org/10.4236/ojss.2013.33017

@@ -1,1 +1,1 @@
-- [Seki-2001-WRR.pdf](Seki-2001-WRR.pdf): Seki, K., Miyazaki, T., 2001. A mathematical model for biological clogging of uniform porous media. Water Resources Research 37 (12), 2995–2999. URL http://dx.doi.org/10.1029/2001WR000395
+- [Seki-2001-WRR.pdf](Seki-2001-WRR.pdf): Seki, K., Miyazaki, T., 2001. A mathematical model for biological clogging of uniform porous media. Water Resources Research 37 (12), 2995–2999. URL https://doi.org/10.1029/2001WR000395
