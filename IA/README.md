@@ -1,0 +1,1 @@
+- [Seki-2019-IA.pdf](Seki-2019-IA.pdf): Seki, K., Miyamoto, T., Iwata, Y. 2019. Estimation of electrical conductivity of a soil solution from the monitored TDR data and an extracted soil solution. International Agrophysics 33(1), 113-119. https://doi.org/10.31545/intagr/104413

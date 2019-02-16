@@ -20,6 +20,7 @@ This is a personal repository of [Katsutoshi Seki](http://www2.toyo.ac.jp/~seki_
 | [GRL](GRL/README.md) | Geophysical Research Letters | |
 | [GWMR](GWMR/README.md) | Ground Water Monitoring and Remediation | |
 | [HESS](HESS/README.md) | Hydrology and Earth System Sciences | |
+| [IA](IA/README.md) | International Agrophysics | |
 | [ISRJ](ISRJ/README.md) | International Scientific Research Journal | |
 | [JBATU](JBATU/README.md) | Journal of Business Administraion, Toyo University | 経営論集 |
 | [JHM](JHM/README.md) | Journal of Hazardous Materials | |
