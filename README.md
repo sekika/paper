@@ -14,6 +14,7 @@ This is a personal repository of [Katsutoshi Seki](http://www2.toyo.ac.jp/~seki_
 
 | Directory | Journal | Japanese name |
 |:--|:--|:--|
+| [AEE](AEE/README.md) | Agriculture, Ecosystems and Environment | |
 | [AM](AM/README.md) | Annals of Microbiology | |
 | [EJSS](EJSS/README.md) | European Journal of Soil Science | |
 | [G](G/README.md) | Geoderma | |
@@ -33,6 +34,7 @@ This is a personal repository of [Katsutoshi Seki](http://www2.toyo.ac.jp/~seki_
 | [PWE](PWE/README.md) | Paddy and Water Environment | |
 | [STE](STE/README.md) | Science of the Total Environment | |
 | [UT](UT/README.md) | University of Tokyo (Ph.D. Thesis) | 東京大学博士論文 |
+| [VZJ](VZJ/README.md) | Vadose Zone Journal | |
 | [WCSS](WCSS/README.md) | Transactions of World Congress of Soil Science | |
 | [WRR](WRR/README.md) | Water Resources Research | |
 
