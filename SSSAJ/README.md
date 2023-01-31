@@ -1,0 +1,1 @@
+- [Zhang-2022-SSSAJ.pdf](Zhang-2022-SSSAJ.pdf): Zhang, R., Ma, J., Seki, K., Wang, D., Wang, L. 2022. Comparison of water consumption for the conversion of croplands to orchards in dryland ecosystems. Soil Science Society of America Journal, 86(4), 946-963. https://doi.org/10.1002/saj2.20426

@@ -33,6 +33,7 @@ This is a personal repository of [Katsutoshi Seki](http://www2.toyo.ac.jp/~seki_
 | [NVSURJ](NVSURJ/README.md) | NVSU Research Journal | |
 | [OJSS](OJSS/README.md) | Open Journal of Soil Science | |
 | [PWE](PWE/README.md) | Paddy and Water Environment | |
+| [SSSAJ](SSSAJ/README.md) | Soil Science Society of America Journal | |
 | [STE](STE/README.md) | Science of the Total Environment | |
 | [UT](UT/README.md) | University of Tokyo (Ph.D. Thesis) | 東京大学博士論文 |
 | [VZJ](VZJ/README.md) | Vadose Zone Journal | |
