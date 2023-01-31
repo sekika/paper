@@ -1,0 +1,1 @@
+- [Seki-2023-JHH.pdf](Seki-2023-JHH.pdf): Seki, K., Toride, N., van Genuchten, M.Th. 2023. Evaluation of a general model for multimodal unsaturated soil hydraulic properties. Journal of Hydrology and Hydromechanics, 71(1), 22-34. https://doi.org/10.2478/johh-2022-0039

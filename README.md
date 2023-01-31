@@ -24,6 +24,7 @@ This is a personal repository of [Katsutoshi Seki](http://www2.toyo.ac.jp/~seki_
 | [IA](IA/README.md) | International Agrophysics | |
 | [ISRJ](ISRJ/README.md) | International Scientific Research Journal | |
 | [JBATU](JBATU/README.md) | Journal of Business Administraion, Toyo University | 経営論集 |
+| [JHH](JHH/README.md) | Journal of Hydrology and Hydromechanics | |
 | [JHM](JHM/README.md) | Journal of Hazardous Materials | |
 | [JJSSP](JJSSP/README.md) | Journal of Japanese Society of Soil Physics | 土壌の物理性 |
 | [JSIDRE](JSIDRE/README.md) | Transactions of Japanese Society of Irrigation, Drainage and Rural Engineering | 農業農村工学会論文集 |
