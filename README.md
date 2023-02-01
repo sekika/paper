@@ -16,6 +16,7 @@ This is a personal repository of [Katsutoshi Seki](http://www2.toyo.ac.jp/~seki_
 |:--|:--|:--|
 | [AEE](AEE/README.md) | Agriculture, Ecosystems and Environment | |
 | [AM](AM/README.md) | Annals of Microbiology | |
+| [AWM](AWM/README.md) | Agricultural Water Management | |
 | [EJSS](EJSS/README.md) | European Journal of Soil Science | |
 | [G](G/README.md) | Geoderma | |
 | [GRL](GRL/README.md) | Geophysical Research Letters | |

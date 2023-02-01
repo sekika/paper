@@ -1,0 +1,1 @@
+- [Zhang-2023-AWM.pdf](Zhang-2023-AWM.pdf): Zhang, R., Seki, K., Wang, L., 2023. Quantifying the contribution of meteorological factors and plant traits to canopy interception under maize cropland. Agricultural Water Management 279(1), 108195. https://doi.org/10.1016/j.agwat.2023.108195
