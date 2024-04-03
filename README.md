@@ -39,6 +39,7 @@ This is a personal repository of [Katsutoshi Seki](http://www2.toyo.ac.jp/~seki_
 | [UT](UT/README.md) | University of Tokyo (Ph.D. Thesis) | 東京大学博士論文 |
 | [VZJ](VZJ/README.md) | Vadose Zone Journal | |
 | [WCSS](WCSS/README.md) | Transactions of World Congress of Soil Science | |
+| [WJS](WJS/README.md) | WikiJournal of Science | |
 | [WRR](WRR/README.md) | Water Resources Research | |
 
 ## Contact the author

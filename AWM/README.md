@@ -1,1 +1,2 @@
 - [Zhang-2023-AWM.pdf](Zhang-2023-AWM.pdf): Zhang, R., Seki, K., Wang, L., 2023. Quantifying the contribution of meteorological factors and plant traits to canopy interception under maize cropland. Agricultural Water Management 279(1), 108195. https://doi.org/10.1016/j.agwat.2023.108195
+- [Dai-2024-AWM.pdf](Dai-2024-AWM.pdf): Dai, J., Zhao, Y., Seki, K., Wang, L. 2024. Changes in water-use strategies and soil water status of degraded poplar plantations in water-limited areas. Agricultural Water Management 296 108799. https://doi.org/10.1016/j.agwat.2024.108799
