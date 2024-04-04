@@ -4,6 +4,7 @@ English papers
 
 - [Seki-2010-JTUNS.pdf](Seki-2010-JTUNS.pdf): Seki, K., 2010. Change in hydrological properties of volcanic ash soil in response to electrolyte concentration. Journal of the Toyo University Natural Science 54, 1–14. URL http://id.nii.ac.jp/1060/00004070/
 - [Seki-2011-JTUNS.pdf](Seki-2011-JTUNS.pdf): Seki, K., 2011. Analysis of soil salinization and alkalinization in the Songnen Plain of Northeast China. Journal of the Toyo University Natural Science 55, 17-28.
+- [Seki-2024-JTUNS.pdf](Seki-2024-JTUNS.pdf): Seki, K., 2024. SWRC Fit and unsatfit for parameter determination of unsaturated soil properties. Journal of the Toyo University Natural Science 68, 57–79.
 
 Japanese papers
 
